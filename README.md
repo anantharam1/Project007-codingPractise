@@ -1,3 +1,3 @@
-# ALL Hail Deepu
+# First Repo
 
-Hello Deepu, how r u feeling today?
+Hi, This is a readme doc.
