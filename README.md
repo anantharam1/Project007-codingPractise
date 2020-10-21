@@ -1,3 +1,3 @@
-# First Repo
+# Coding Practise
 
-Hi, This is a readme doc.
+This repo consists of some practise python programs using which I taught myself to code.
